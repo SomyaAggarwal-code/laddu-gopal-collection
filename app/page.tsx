@@ -1,5 +1,10 @@
-export default function Home() {
-  return (
+import Navbar from "../components/Navbar";export default function Home() {
+  return (<>
+  <Navbar />
+  <main>
+    {/* your existing homepage content */}
+  </main>
+</>
     <main style={{
       fontFamily: "Arial, sans-serif",
       background: "#FFFDF5",
