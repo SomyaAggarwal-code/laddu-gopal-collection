@@ -83,6 +83,19 @@ export default function Home() {
         </section>
 
         <section style={{ marginTop: "50px" }}>
-          <h2>📞 Contact</h2>
+  <h2>📞 Contact</h2>
 
-          <p>701505
+  <p>7015053081</p>
+  <p>9896000357</p>
+
+  <p>📍 Fatehabad, Haryana</p>
+
+  <p>Instagram: @laddu_gopal.collection</p>
+</section>
+
+</main>
+
+<Footer />
+</>
+);
+}
